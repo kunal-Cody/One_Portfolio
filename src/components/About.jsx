@@ -9,13 +9,18 @@ const About = () => {
             </div>
 
             <p className='text-xl mt-20'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum quaerat et id in corporis dolor repellendus labore ab, saepe accusantium similique expedita vel repellat ea recusandae reiciendis sed rerum. Eligendi.
+            	3 + Years of IT experience in designing and developing and maintenance of application Health domain web and Enterprise applications using multiple technologies like React.js, Redux, Hooks, JavaScript, CSS, HTML.
             </p>
 
             <br/>
 
             <p className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ut perspiciatis molestias, autem veritatis asperiores saepe maiores quae nulla? Assumenda omnis, ducimus accusamus nemo vero ad, iste, corporis ut architecto quidem voluptas? Aliquam quae beatae officiis, placeat recusandae dicta at rem sequi pariatur delectus molestiae mollitia eaque laudantium ut ratione.
+            	Good Knowledge on Node.js (Rest API) and MongoDB.<br/> 
+                Woking Knowledge on Styling Technologies like  CSS,CSS3,HTML,HTML5.•	Experience on Handling Flexbox layout also Learning Knowledge  on Tailwind.<span/>Learning Knowledge on AWS and Jenkins.<br/> <br/>	
+                Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.<br/>
+                Involved in the requirement gathering, design requirement, deployment support with the client.
+               Knowledge of functional testing of Enterprise applications during System Integrated testing (SIT) as well as User acceptance testing (UAT).
+
             </p>
         </div>
        </div>

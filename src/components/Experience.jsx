@@ -5,6 +5,7 @@ import javascript from '../assets/javascript.png';
 import node from '../assets/node.png';
 import reactImage from '../assets/react.png';
 import tailwind from '../assets/tailwind.png';
+import redux from '../assets/redux-logo.png';
 
 
 const Experience = () => {
@@ -14,39 +15,46 @@ const Experience = () => {
       id:1,
       src:reactImage,
       title:'React',
-      style:'shadow-blue-500'
+      style:'shadow-cyan-600'
     },
     {
       id:2,
+      src:redux,
+      title:'Redux',
+      style:'shadow-purple-500'
+    },
+    {
+      id:3,
       src:node,
       title:'Node',
       style:'shadow-green-500'
     },
     {
-      id:3,
+      id:4,
       src:javascript,
       title:'Javascript',
       style:'shadow-yellow-500'
     },
     {
-      id:4,
+      id:5,
       src:html,
       title:'HTML',
       style:'shadow-orange-500'
     },
     {
-      id:5,
+      id:6,
       src:css,
       title:'CSS',
       style:'shadow-blue-500'
     },
     
     {
-      id:6,
+      id:7,
       src:tailwind,
       title:'Tailwind',
       style:'shadow-cyan-500'
     },
+   
   ]
   return (
     <div
