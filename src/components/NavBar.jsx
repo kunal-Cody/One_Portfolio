@@ -27,9 +27,9 @@ const NavBar = () => {
         }];
   return (
     <div className='flex justify-between items-center w-full h-20 px-4
-     text-white fixed bg-black'> 
+    text-white fixed bg-gray-800'> 
       <div>
-          <h1 className='text-5xl font-signature ml-2'>
+          <h1 className='text-5xl font-signature ml-2 '>
               kunal
           </h1>
        </div>
@@ -40,7 +40,7 @@ const NavBar = () => {
                links.map(({id,link})=>(
                 <li 
                 key={id} className='px-4 cursor-pointer capitalize font-medium 
-                text-gray-300 hover:scale-105 duration-200'>
+                text-gray-300 hover:scale-150 duration-300'>
                     <Link to={link} smooth duration={500}>{link}</Link>
                 </li>
                ))
